@@ -52,3 +52,12 @@ Keep in touch with me through my following socials!
 </td>
 </tr>
 </table>
+
+
+<br/>
+
+---
+
+<h2 align="center">My usual stack💻</h2>
+
+<br/>
