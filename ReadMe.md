@@ -34,7 +34,7 @@
 
 ---
 
-<h2 align="center">⫘⫘⫘ 🎧About Me✩ ⫘⫘⫘</h2>
+<h2 align="center">⫘⫘⫘🎧About Me✩⫘⫘⫘</h2>
 
 <br/>
 
@@ -62,7 +62,7 @@ Keep in touch with me through my following socials!
 
 ---
 
-<h2 align="center">My usual stack💻</h2>
+<h2 align="center"> ـــــــــــــــــــــــﮩ٨ـMy usual stack💻ــــــــــــــــ ⫘⫘⫘</h2>
 
 <div align="center">
   <a href="https://i.postimg.cc/02pFVBnv/techstack-banner.png">
@@ -74,7 +74,7 @@ Keep in touch with me through my following socials!
 
 <div align="center">
 
-<h2 align="center">My Featured Works💼</h2>
+<h2 align="center"> ( -_•)╦̵̵̿╤─ــــــــــــMy Featured Works💼ــــــــــــــــ</h2>
 <br/>
 <div align="center">
 <a href="https://ambag-plus.vercel.app/landing_page" target="_blank">
@@ -90,15 +90,10 @@ Keep in touch with me through my following socials!
 </a>
 </div>
 
-<div align="center">
-  <a href="https://i.postimg.cc/jdSbGvJy/github-banner.png">
-    <img src="https://i.postimg.cc/jdSbGvJy/github-banner.png" width="100%" alt="Banner"/>
-  </a>
-</div>
 
 <div align="center">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzEvhyx&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=808080&hide_border=true&title_color=ffffff" width="100%" alt="Contribution Graph"/>
+  <h2 align="center"> (ᵕ—ᴗ—) My Contributions (Tamad)</h2>
+  <img src="https://ghchart.rshah.org/ffffff/ItzEvhyx" alt="ItzEvhyx's GitHub Contribution Chart" width="100%"/>
 </div>
 
