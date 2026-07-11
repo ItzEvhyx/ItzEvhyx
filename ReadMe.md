@@ -64,7 +64,6 @@ Keep in touch with me through my following socials!
 <h2 align="center"> ـــــــــــــــــــــــﮩ٨ـMy usual stack💻ــــــــــــــــ ⫘⫘⫘</h2>
 
 <div align="center">
-  <a href="https://i.postimg.cc/02pFVBnv/techstack-banner.png">
     <img src="https://i.postimg.cc/02pFVBnv/techstack-banner.png" width="100%" alt="Banner"/>
   </a>
 </div>
