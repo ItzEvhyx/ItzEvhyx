@@ -74,9 +74,6 @@ Keep in touch with me through my following socials!
 
 <div align="center">
 
-<br/>
-
----
 
 <h2 align="center">My Featured Works💼</h2>
 
