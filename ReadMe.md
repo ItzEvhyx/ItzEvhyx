@@ -94,6 +94,6 @@ Keep in touch with me through my following socials!
 <div align="center">
 
   <h2 align="center"> (ᵕ—ᴗ—) My Contributions (Tamad)</h2>
-  <img src="https://ghchart.rshah.org/ffffff/ItzEvhyx" alt="ItzEvhyx's GitHub Contribution Chart" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzEvhyx&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=808080&hide_border=true&title_color=ffffff&days=40" width="100%" alt="Contribution Graph"/>
 </div>
 
