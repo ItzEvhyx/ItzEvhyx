@@ -33,3 +33,22 @@
 <h2 align="center">⫘⫘⫘ 🎧About Me✩ ⫘⫘⫘</h2>
 
 <br/>
+
+<table>
+<tr>
+<td width="30%" align="center">
+  <img src="https://i.postimg.cc/prLnh7sW/syncra-logo.png" width="100%"/>
+</td>
+<td width="70%">
+
+### Aspiring Fullstack Developer | Cross Platform Developer 👋
+
+Greetings! My name is Yhvhan Suba, I am an undergraduate student based on Manila Philippines and I am deeply passionate and thrilled about many things like literature, graphic design and specially Tech!
+
+Tech is no longer a means of a career for me but a hobby that I explore and expand on a daily basis. From developing software solutions across different platforms like Mobile, Desktop, and Web applications, my horizons go way beyond that and also explore embedded systems and IOTs to make further innovate my daily life.
+
+Keep in touch with me through my following socials!
+
+</td>
+</tr>
+</table>
