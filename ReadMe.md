@@ -89,3 +89,16 @@ Keep in touch with me through my following socials!
   <img src="https://i.postimg.cc/PqkqB9sy/omoidecam-link.png" width="320" style="border-radius:12px;" alt="Omoide Cam"/>
 </a>
 </div>
+
+<div align="center">
+  <a href="https://i.postimg.cc/jdSbGvJy/github-banner.png">
+    <img src="https://i.postimg.cc/jdSbGvJy/github-banner.png" width="100%" alt="Banner"/>
+  </a>
+</div>
+
+<div align="center">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzEvhyx&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=808080&hide_border=true&title_color=ffffff" width="100%" alt="Contribution Graph"/>
+</div>
+
