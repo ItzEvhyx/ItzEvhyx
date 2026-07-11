@@ -94,6 +94,10 @@ Keep in touch with me through my following socials!
 <div align="center">
 
   <h2 align="center"> (ᵕ—ᴗ—) My Contributions (Tamad)</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzEvhyx&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=808080&hide_border=true&title_color=ffffff&days=40" width="100%" alt="Contribution Graph"/>
+    <img src="https://i.postimg.cc/d37BzLGv/contribution-linechart.png" alt="Contribution Graph" width="100%"/>
+</div>
+
+<div align="center">
+    <img src="https://i.postimg.cc/J0yq9GjM/footer-img.png" alt="Contribution Graph" width="100%"/>
 </div>
 
