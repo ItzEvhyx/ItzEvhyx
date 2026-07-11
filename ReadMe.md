@@ -1,5 +1,4 @@
 <div align="center">
-  <a href="https://i.postimg.cc/jdSbGvJy/github-banner.png">
     <img src="https://i.postimg.cc/jdSbGvJy/github-banner.png" width="100%" alt="Banner"/>
   </a>
 </div>
@@ -90,14 +89,16 @@ Keep in touch with me through my following socials!
 </a>
 </div>
 
-
 <div align="center">
 
   <h2 align="center"> (ᵕ—ᴗ—) My Contributions (Tamad)</h2>
     <img src="https://i.postimg.cc/d37BzLGv/contribution-linechart.png" alt="Contribution Graph" width="100%"/>
 </div>
 
+
+<br>
 <div align="center">
-    <img src="https://i.postimg.cc/J0yq9GjM/footer-img.png" alt="Contribution Graph" width="100%"/>
+    <img src="https://i.postimg.cc/B6PpzjxN/footer-img-(2).png" alt="Contribution Graph" width="100%"/>
 </div>
+</br>
 
