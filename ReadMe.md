@@ -85,15 +85,15 @@ Keep in touch with me through my following socials!
 <br/>
 
 <a href="https://ambag-plus.vercel.app/landing_page" target="_blank">
-  <img src="https://i.postimg.cc/9fjfvK5B/ambagplus-link.png" width="150" style="border-radius:12px;" alt="LinkedIn"/>
+  <img src="https://i.postimg.cc/9fjfvK5B/ambagplus-link.png" width="300" style="border-radius:12px;" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://chromewebstore.google.com/detail/bettermarks/dempioaoedddahedbfhfjhnkkhdjblkm" target="_blank">
-  <img src="https://i.postimg.cc/5tMtZTd3/bettermarks-link.png" width="150" style="border-radius:12px;" alt="Gmail"/>
+  <img src="https://i.postimg.cc/5tMtZTd3/bettermarks-link.png" width="300" style="border-radius:12px;" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://omoide-cam.vercel.app/" target="_blank">
-  <img src="https://i.postimg.cc/PqkqB9sy/omoidecam-link.png" width="150" style="border-radius:12px;" alt="BetterMarks"/>
+  <img src="https://i.postimg.cc/PqkqB9sy/omoidecam-link.png" width="300" style="border-radius:12px;" alt="BetterMarks"/>
 </a>
 
 </div>
